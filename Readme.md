@@ -35,6 +35,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 6. run through prompts as required 
 
 ### <a name="InstallationVid"></a>InstallationVid
+![](https://github.com/dantheman4500/ecommerce-backend-work/blob/master/videos/E-commer-recording-full.gif)
 
 ### <a name="Questions"></a>Questions
 
